@@ -1,0 +1,35 @@
+.sms {
+    display: flex;
+    align-items: flex-end;
+    margin: 25px;
+    background-color: #ffffff;
+}
+
+.avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.content {
+    background-color: #cadb9b;
+    width: 200px;
+    height: auto;
+    border-radius: 5px 5px 5px 0;
+    padding: 10px;
+}
+.name {
+    color: #b5327a;
+}
+.massage {
+    color: #ac9c28;
+}
+
+.time {
+    color: green;
+    text-align: right;
+}
+.block {
+    border: 5px solid transparent;
+    border-right: 5px solid #cadb9b;
+    border-bottom: 5px solid #cadb9b;
+}
