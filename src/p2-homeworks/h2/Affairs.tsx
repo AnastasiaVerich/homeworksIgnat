@@ -7,7 +7,6 @@ type AffairsPropsType = {
     setFilter: (x: FilterType)=> void
     deleteAffairCallback: (id: number)=>void
 }
-alert(10)
 function Affairs(props: AffairsPropsType) {
     const mappedAffairs = props.data.map((a: AffairPriorityType) => (
         <Affair // should work
