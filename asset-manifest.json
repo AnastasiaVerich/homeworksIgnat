@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/homeworksIgnat/static/css/main.bffbb53b.chunk.css",
+    "main.js": "/homeworksIgnat/static/js/main.113128f4.chunk.js",
+    "main.js.map": "/homeworksIgnat/static/js/main.113128f4.chunk.js.map",
+    "runtime-main.js": "/homeworksIgnat/static/js/runtime-main.fc650a35.js",
+    "runtime-main.js.map": "/homeworksIgnat/static/js/runtime-main.fc650a35.js.map",
+    "static/js/2.804648ff.chunk.js": "/homeworksIgnat/static/js/2.804648ff.chunk.js",
+    "static/js/2.804648ff.chunk.js.map": "/homeworksIgnat/static/js/2.804648ff.chunk.js.map",
+    "index.html": "/homeworksIgnat/index.html",
+    "static/css/main.bffbb53b.chunk.css.map": "/homeworksIgnat/static/css/main.bffbb53b.chunk.css.map",
+    "static/js/2.804648ff.chunk.js.LICENSE.txt": "/homeworksIgnat/static/js/2.804648ff.chunk.js.LICENSE.txt",
+    "static/media/SuperCheckbox.module.css": "/homeworksIgnat/static/media/one.267e0ad0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc650a35.js",
+    "static/js/2.804648ff.chunk.js",
+    "static/css/main.bffbb53b.chunk.css",
+    "static/js/main.113128f4.chunk.js"
+  ]
+}
