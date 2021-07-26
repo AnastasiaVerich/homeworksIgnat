@@ -8,7 +8,7 @@ function HW13() {
     return (
         <div>
             <hr/>
-            homeworks 13
+            homeworks 13 удалить эти слова
          <Request/>
 
             <hr/>
